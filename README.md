@@ -20,7 +20,7 @@ Webdesign
 ---------
 To make a theme using the CMS you simply have to call 5 functions
 
-Header
+Header<br>
 <code>get_header("Slogan");</code>
 
 Sidebar/Categories/Archive<br>
