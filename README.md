@@ -18,10 +18,13 @@ Getting started
 
 Webdesign
 ---------
-To make a theme using the CMS you simply have to call 5 functions
+To make a theme using the CMS you simply have to call 6 functions
 
 Header<br>
 <code>get_header("Slogan");</code>
+
+Seatch Form<br>
+<code>get_searchform();</code>
 
 Sidebar/Categories/Archive<br>
 <code>get_content("sidebar");</code>
