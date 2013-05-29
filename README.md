@@ -12,7 +12,4 @@ FAQ
 Contribute
 ----------
 
-#Test1#
-##Test2##
-###Test3##
-########Test4
+Copyright 2013 Stian Wiik Instebø
