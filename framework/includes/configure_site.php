@@ -92,6 +92,6 @@
 			<p>There doesn't seem to be a <code>config.php</code> file. We need this before we can get started.</p>
 			<p>Need more help? <a href="#">We got it.</a></p>
 			<p>You can create a <code>config.php</code> file through a web interface, but this doesn't work for all server setups. The safest way is to manually create the file. </p>
-			<a href="framework/includes/setup_config.php" class="button button-large">Create a Configuration File</a>
+			<a href="setup_config.php" class="button button-large">Create a Configuration File</a>
 		</div>
 	</div>

@@ -70,9 +70,9 @@
         		break;
 		}
 	}
-	function get_footer($text) {
+	function get_footer($object) {
 		//Generate footer
-		echo "&copy " . date("Y") . " " . $text;
+		echo "&copy " . date("Y") . " " . $object;
 	}
 	function get_searchform(){
 		//Generate search form
@@ -98,6 +98,10 @@
 			echo '<title>'.SITE_NAME.'</title>';
 			include '/framework/themes/index.php';
 		}
+	}
+
+	function run_init() {
+		
 	}
 
 	//Error messages
